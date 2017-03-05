@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "552111519331",
+    "firebase_url": "https://thatsapp-86aef.firebaseio.com",
+    "project_id": "thatsapp-86aef",
+    "storage_bucket": "thatsapp-86aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552111519331:android:8083f3d2a17f4065",
+        "android_client_info": {
+          "package_name": "com.example.user.thatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552111519331-tsr61a8n6vn3d6ln7fkhqs0pqdatlg57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.thatsapp",
+            "certificate_hash": "C79E514EA20D0A44C936F763555A549D7A0A8F66"
+          }
+        },
+        {
+          "client_id": "552111519331-9cam63rq4076k09gnvvebdmtaut7e8cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqlB4RkIuURkuMyH5fIlDYGhUsygJaPmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552111519331-9cam63rq4076k09gnvvebdmtaut7e8cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
